@@ -2,10 +2,9 @@
 Voice part,For practicum project
 
 You should install all below.
-    v
-    v
-    v
-
+v
+v
+v
 sudo apt-get install python3-pip
 sudo pip3 install SpeechRecognition
 sudo python3 setup.py install
